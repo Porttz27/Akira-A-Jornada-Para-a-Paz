@@ -8,7 +8,7 @@ PhysicsMaterial2D:
   m_PrefabAsset: {fileID: 0}
   m_Name: FisicaParede
   serializedVersion: 2
-  friction: 0.002
+  friction: 0.08
   bounciness: 0
   m_FrictionCombine: 1
   m_BounceCombine: 4

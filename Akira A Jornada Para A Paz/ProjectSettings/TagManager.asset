@@ -7,6 +7,9 @@ TagManager:
   - "Ch\xE3o"
   - Inimigo
   - Cura
+  - Dano
+  - Parede
+  - Porta
   layers:
   - Default
   - TransparentFX
