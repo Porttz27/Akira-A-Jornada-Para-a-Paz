@@ -13,7 +13,6 @@ public class AkiraScript : MonoBehaviour
 
     public float Direcao;          // direção efetiva usada pelo personagem (lida por outros scripts)
     private float inputDirecao;    // o que o jogador está apertando de verdade
-    private float DirecaoAtaque = 0f;
 
     private int Vida = 3;
     private int Arma = 1;
@@ -219,9 +218,10 @@ public class AkiraScript : MonoBehaviour
             CanJump = true;
             an.SetBool("deslizando", true);
         }
-        if (collision.gameObject.CompareTag("Inimigo") && !Imortal)
+        if (collision.gameObject.CompareTag("Inimigo") && !Imortal && !AtacandoA && !AtacandoD && !AtacandoP)
         {
             ReceberDano(1);
+            StartCoroutine(receberDano());
         }
         if (collision.gameObject.CompareTag("Cura"))
         {
@@ -231,14 +231,15 @@ public class AkiraScript : MonoBehaviour
         {
             SceneManager.LoadScene("Fase1");
         }
+        if (collision.gameObject.CompareTag("Inimigo") && (AtacandoA || AtacandoD || AtacandoP))
+        {
+            collision.gameObject.GetComponent<InimigoBaseScript>().ReceberDano(1);
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.CompareTag("Inimigo"))
-        {
-            inimi.ReceberDano(1);
-        }
+        
     }
 
 

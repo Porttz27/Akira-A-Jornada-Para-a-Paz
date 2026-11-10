@@ -1,3 +1,4 @@
+using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -10,9 +11,14 @@ public class InimigoBaseScript : MonoBehaviour
     private bool Indo = true;
     private bool Atacando = false;
     public Collider2D ColliderdeAtaque;
+    public bool Imortal = false;
+    SpriteRenderer sr;
+    Rigidbody2D rb;
 
     public void Start()
     {
+        sr = GetComponent<SpriteRenderer>();
+        rb = GetComponent<Rigidbody2D>();
         Ponto1.SetParent(null);
         Ponto2.SetParent(null);
     }
@@ -61,16 +67,30 @@ public class InimigoBaseScript : MonoBehaviour
     
     public void ReceberDano(int dano)
     {
+        if(Imortal) return;
         Vida -= dano;
         if (Vida <= 0)
         {
             Morrer();
         }
+        if (Vida <= 0)
+            return;
+        StartCoroutine(receberDano());
         Debug.Log("Inimigo recebeu dano. Vida atual: " + Vida);
     }
 
     private void Morrer()
     {
         Destroy(gameObject);
+    }
+
+    IEnumerator receberDano()
+    {
+        sr.color = Color.red;
+        Imortal = true;
+        yield return new WaitForSeconds(0.5f);
+        sr.color = Color.white;
+        yield return new WaitForSeconds(0.5f);
+        Imortal = false;
     }
 }
