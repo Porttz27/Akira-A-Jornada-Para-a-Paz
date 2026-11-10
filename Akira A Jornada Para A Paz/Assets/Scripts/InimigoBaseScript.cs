@@ -64,12 +64,14 @@ public class InimigoBaseScript : MonoBehaviour
         Vida -= dano;
         if (Vida <= 0)
         {
+            Debug.Log ("Inimigo morreu.");
             Morrer();
+            return;
         }
         Debug.Log("Inimigo recebeu dano. Vida atual: " + Vida);
     }
 
-    private void Morrer()
+    void Morrer()
     {
         Destroy(gameObject);
     }
