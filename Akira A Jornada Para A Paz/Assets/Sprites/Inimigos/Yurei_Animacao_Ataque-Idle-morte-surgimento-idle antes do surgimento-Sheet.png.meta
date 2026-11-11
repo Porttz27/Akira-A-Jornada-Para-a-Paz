@@ -1,0 +1,1982 @@
+fileFormatVersion: 2
+guid: 690e804bc14448543a1e56bc86ce198d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8725137193622863393
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_0
+  - first:
+      213: 5667156600891766040
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_1
+  - first:
+      213: -5211190324511904485
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_2
+  - first:
+      213: -2072163875991139644
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_3
+  - first:
+      213: -5114810448920024473
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_4
+  - first:
+      213: 3921419314110799530
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_5
+  - first:
+      213: -4843890873650455575
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_6
+  - first:
+      213: 7494348096012417710
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_7
+  - first:
+      213: -9173485828178874863
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_8
+  - first:
+      213: -579373909291548038
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_9
+  - first:
+      213: -8107223719831517726
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_10
+  - first:
+      213: 4859940265933476745
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_11
+  - first:
+      213: 8028836585329005363
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_12
+  - first:
+      213: 2891944996234298739
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_13
+  - first:
+      213: -3134936692209733342
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_14
+  - first:
+      213: 9119876344391430679
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_15
+  - first:
+      213: -2372063695016652248
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_16
+  - first:
+      213: 5963266867181489596
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_17
+  - first:
+      213: 7832312735024819403
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_18
+  - first:
+      213: -2847800372930435792
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_19
+  - first:
+      213: -8805960543522444533
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_20
+  - first:
+      213: -1908161206320596699
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_21
+  - first:
+      213: -8896878161748622084
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_22
+  - first:
+      213: -7381631266661230040
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_23
+  - first:
+      213: -4833072106875825122
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_24
+  - first:
+      213: 6620873771977663545
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_25
+  - first:
+      213: -2518170541859003477
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_26
+  - first:
+      213: 99731860174976156
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_27
+  - first:
+      213: 1012755642611148298
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_28
+  - first:
+      213: -7334381026119630954
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_29
+  - first:
+      213: 4165105138657046473
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_30
+  - first:
+      213: 5248738725676978403
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_31
+  - first:
+      213: 6922135637272538957
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_32
+  - first:
+      213: -8184566720203665507
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_33
+  - first:
+      213: -7297205453854673641
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_34
+  - first:
+      213: -7273581659511620984
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_35
+  - first:
+      213: 7248007688537452930
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_36
+  - first:
+      213: -410212827478494844
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_37
+  - first:
+      213: -2876765000257516328
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_38
+  - first:
+      213: -1234566852344519696
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_39
+  - first:
+      213: 7033300977264705563
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_40
+  - first:
+      213: 5554440947032469866
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_41
+  - first:
+      213: -4199097332492784081
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_42
+  - first:
+      213: -7218750051968961274
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_43
+  - first:
+      213: 6692445633047996262
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_44
+  - first:
+      213: 1677080775259550938
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_45
+  - first:
+      213: 4751385458957084591
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_46
+  - first:
+      213: 5818570749531296649
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_47
+  - first:
+      213: -4882039165619620093
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_48
+  - first:
+      213: 1761022123769635984
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_49
+  - first:
+      213: 5552967440957248621
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_50
+  - first:
+      213: -7117843591740967152
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_51
+  - first:
+      213: -1324750058953738154
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_52
+  - first:
+      213: 2531743623430268507
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_53
+  - first:
+      213: -1913098945763038650
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_54
+  - first:
+      213: 3715768296637972013
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_55
+  - first:
+      213: 7175564989619844248
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_56
+  - first:
+      213: 8755352536229309800
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_57
+  - first:
+      213: 6178585631374346769
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_58
+  - first:
+      213: 3184947677701138620
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_59
+  - first:
+      213: -6750103782768712327
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_60
+  - first:
+      213: -6922635676368414674
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_61
+  - first:
+      213: -3471508351187975857
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_62
+  - first:
+      213: -503480226495486142
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_63
+  - first:
+      213: -4008764146209811450
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_64
+  - first:
+      213: -9037129459973529899
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_65
+  - first:
+      213: 6843001939817114251
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_66
+  - first:
+      213: 6922981089993844582
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_67
+  - first:
+      213: -7949671734961159717
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_68
+  - first:
+      213: 4496708995564006054
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_69
+  - first:
+      213: -2722247575521820800
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_70
+  - first:
+      213: 2332624594600724380
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_71
+  - first:
+      213: 8330164383834404414
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_72
+  - first:
+      213: -3106935247239188320
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_73
+  - first:
+      213: 7414663721944411810
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_74
+  - first:
+      213: 3192978364230189632
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_75
+  - first:
+      213: -4606105914868910542
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_76
+  - first:
+      213: 5315581492666163946
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_77
+  - first:
+      213: 7449091130959968401
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_78
+  - first:
+      213: 8603312702590530044
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_79
+  - first:
+      213: -6607239371931033648
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_80
+  - first:
+      213: -3684172738038169432
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_81
+  - first:
+      213: -421016439265407452
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_82
+  - first:
+      213: -4652142185146302526
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_83
+  - first:
+      213: -4088581422080627106
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_84
+  - first:
+      213: -5574105884480676714
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_85
+  - first:
+      213: 5520370537286624112
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_86
+  - first:
+      213: -3540646734629224455
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_87
+  - first:
+      213: 6064598962059123901
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_88
+  - first:
+      213: -5824884459462297580
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_89
+  - first:
+      213: -4825834476209892703
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_90
+  - first:
+      213: -8220162617787670162
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_91
+  - first:
+      213: -5281328513396189964
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_92
+  - first:
+      213: 7582544275530727435
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_93
+  - first:
+      213: -8496879578112068748
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_94
+  - first:
+      213: -7950663499829828263
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_95
+  - first:
+      213: -2957542700238789959
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_96
+  - first:
+      213: -4506370725721160659
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_97
+  - first:
+      213: 7127368641171629812
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_98
+  - first:
+      213: 2934479491525492805
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_99
+  - first:
+      213: -1275012983065915264
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_100
+  - first:
+      213: -8952175682312148805
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_101
+  - first:
+      213: 8650887366417582662
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_102
+  - first:
+      213: -8720178692519100321
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_103
+  - first:
+      213: -3674794958910312646
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_104
+  - first:
+      213: 7326708477806329744
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_105
+  - first:
+      213: -6189746578049089686
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_106
+  - first:
+      213: 7073892563634904917
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_107
+  - first:
+      213: -6622858540244019577
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_108
+  - first:
+      213: -8267608532015077696
+    second: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 36
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815f9a217e8c5ae40800000000000000
+      internalID: 5667156600891766040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 55
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1de38a82022ea7b0800000000000000
+      internalID: -5211190324511904485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 53
+        width: 102
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a6aa20ffa8409b0800000000000000
+      internalID: -5114810448920024473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 15
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaf1f5f2e5410860800000000000000
+      internalID: 7494348096012417710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 15
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e61531e3b31b080800000000000000
+      internalID: -9173485828178874863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 15
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a724c88cf76a5f7f0800000000000000
+      internalID: -579373909291548038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 40
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3331234f5582c6f60800000000000000
+      internalID: 8028836585329005363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 20
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8229ee913acb41fd0800000000000000
+      internalID: -2372063695016652248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 11
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf40b071370f78480800000000000000
+      internalID: -8896878161748622084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 3
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f36c2e05b073a90800000000000000
+      internalID: -7334381026119630954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfaec15e0d6dc930800000000000000
+      internalID: 4165105138657046473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e010dedf0447d840800000000000000
+      internalID: 5248738725676978403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 3
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fa3b2efad501060800000000000000
+      internalID: 6922135637272538957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 3
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fc6c18ee39a6e80800000000000000
+      internalID: -8184566720203665507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 6
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715f2fd4d4e1bba90800000000000000
+      internalID: -7297205453854673641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 3
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f5d75b91ae4af0800000000000000
+      internalID: -410212827478494844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 5
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dccf59597da318d0800000000000000
+      internalID: -2876765000257516328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 2
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f368822dffeddee0800000000000000
+      internalID: -1234566852344519696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 1
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10454c89fd4b9160800000000000000
+      internalID: 7033300977264705563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 2
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6131c5dc96551d40800000000000000
+      internalID: 5554440947032469866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 3
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e2a7f493fc9b5c0800000000000000
+      internalID: -4199097332492784081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 4443
+        y: 3
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605be060319d1db90800000000000000
+      internalID: -7218750051968961274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 13
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667a07c58d750ec50800000000000000
+      internalID: 6692445633047996262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 5115
+        y: 6
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad47bfc5410364710800000000000000
+      internalID: 1677080775259550938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 5344
+        y: 6
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7e718a6ef40f140800000000000000
+      internalID: 4751385458957084591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 5593
+        y: 2
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9839a42c447bfb050800000000000000
+      internalID: 5818570749531296649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 5820
+        y: 0
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307b2b9be338f3cb0800000000000000
+      internalID: -4882039165619620093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 6040
+        y: 2
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094a4e09a48607810800000000000000
+      internalID: 1761022123769635984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 2
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d641197777a101d40800000000000000
+      internalID: 5552967440957248621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 6497
+        y: 0
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0173d7b17f6583d90800000000000000
+      internalID: -7117843591740967152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 6730
+        y: 2
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65872e717da8d9de0800000000000000
+      internalID: -1324750058953738154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 6959
+        y: 2
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56ebe8696f822320800000000000000
+      internalID: 2531743623430268507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 7188
+        y: 2
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aae9515ae4375e0800000000000000
+      internalID: -1913098945763038650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 1
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eb3cc249f019330800000000000000
+      internalID: 3715768296637972013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 7653
+        y: 2
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894350d175ab49360800000000000000
+      internalID: 7175564989619844248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 7875
+        y: 0
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d634d6eb2418970800000000000000
+      internalID: 8755352536229309800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 8109
+        y: 0
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a866c65eebeb550800000000000000
+      internalID: 6178585631374346769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 8339
+        y: 2
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8e49dc905333c20800000000000000
+      internalID: 3184947677701138620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 8571
+        y: 13
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975ec078f50d252a0800000000000000
+      internalID: -6750103782768712327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 8793
+        y: 4
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e285d90b78bddef90800000000000000
+      internalID: -6922635676368414674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 9031
+        y: 13
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4183a42c89b2dfc0800000000000000
+      internalID: -3471508351187975857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 9492
+        y: 18
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247ad4cc6674309f0800000000000000
+      internalID: -503480226495486142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 11999
+        y: 6
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60497d49f320e58c0800000000000000
+      internalID: -4008764146209811450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 12226
+        y: 2
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de5f0d03aaa59280800000000000000
+      internalID: -9037129459973529899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 12452
+        y: 2
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8aab1c220a37fe50800000000000000
+      internalID: 6843001939817114251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66764df2f9e531060800000000000000
+      internalID: 6922981089993844582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd14dac1da71da190800000000000000
+      internalID: -7949671734961159717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 4894
+        y: 8
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0fa289ad2f1e4d0800000000000000
+      internalID: -3106935247239188320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 9259
+        y: 9
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2e105543db4c940800000000000000
+      internalID: 5315581492666163946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 11771
+        y: 0
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1b389125b156770800000000000000
+      internalID: 8603312702590530044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 9938
+        y: 0
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c5d1f1b3cc4a2b0800000000000000
+      internalID: -5574105884480676714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 10167
+        y: 0
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073608761cb4c9c40800000000000000
+      internalID: 5520370537286624112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 10396
+        y: 0
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff3743dd881ddec0800000000000000
+      internalID: -3540646734629224455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 10625
+        y: 0
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc9cb6df98c92450800000000000000
+      internalID: 6064598962059123901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 11542
+        y: 0
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4187e08127ad92fa0800000000000000
+      internalID: -5824884459462297580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a21dacbc11370db0800000000000000
+      internalID: -4825834476209892703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6122d2c6ad1ced80800000000000000
+      internalID: -8220162617787670162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 5
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4d0e0e2b3f4b6b0800000000000000
+      internalID: -5281328513396189964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 6
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b004ea438db9a3960800000000000000
+      internalID: 7582544275530727435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 10855
+        y: 0
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2a7387592b4f6d0800000000000000
+      internalID: -2957542700238789959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 11084
+        y: 0
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24cb2363b72671c0800000000000000
+      internalID: -4506370725721160659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 11314
+        y: 0
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f62b48440089e260800000000000000
+      internalID: 7127368641171629812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540cb0dcc8d59b820800000000000000
+      internalID: 2934479491525492805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e78d97fa507aa2b4aad86f6304b2ff9a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_0: -8725137193622863393
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_1: 5667156600891766040
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_10: -8107223719831517726
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_100: -1275012983065915264
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_101: -8952175682312148805
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_102: 8650887366417582662
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_103: -8720178692519100321
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_104: -3674794958910312646
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_105: 7326708477806329744
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_106: -6189746578049089686
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_107: 7073892563634904917
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_108: -6622858540244019577
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_109: -8267608532015077696
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_11: 4859940265933476745
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_12: 8028836585329005363
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_13: 2891944996234298739
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_14: -3134936692209733342
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_15: 9119876344391430679
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_16: -2372063695016652248
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_17: 5963266867181489596
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_18: 7832312735024819403
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_19: -2847800372930435792
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_2: -5211190324511904485
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_20: -8805960543522444533
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_21: -1908161206320596699
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_22: -8896878161748622084
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_23: -7381631266661230040
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_24: -4833072106875825122
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_25: 6620873771977663545
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_26: -2518170541859003477
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_27: 99731860174976156
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_28: 1012755642611148298
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_29: -7334381026119630954
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_3: -2072163875991139644
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_30: 4165105138657046473
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_31: 5248738725676978403
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_32: 6922135637272538957
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_33: -8184566720203665507
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_34: -7297205453854673641
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_35: -7273581659511620984
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_36: 7248007688537452930
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_37: -410212827478494844
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_38: -2876765000257516328
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_39: -1234566852344519696
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_4: -5114810448920024473
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_40: 7033300977264705563
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_41: 5554440947032469866
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_42: -4199097332492784081
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_43: -7218750051968961274
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_44: 6692445633047996262
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_45: 1677080775259550938
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_46: 4751385458957084591
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_47: 5818570749531296649
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_48: -4882039165619620093
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_49: 1761022123769635984
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_5: 3921419314110799530
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_50: 5552967440957248621
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_51: -7117843591740967152
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_52: -1324750058953738154
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_53: 2531743623430268507
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_54: -1913098945763038650
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_55: 3715768296637972013
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_56: 7175564989619844248
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_57: 8755352536229309800
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_58: 6178585631374346769
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_59: 3184947677701138620
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_6: -4843890873650455575
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_60: -6750103782768712327
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_61: -6922635676368414674
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_62: -3471508351187975857
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_63: -503480226495486142
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_64: -4008764146209811450
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_65: -9037129459973529899
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_66: 6843001939817114251
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_67: 6922981089993844582
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_68: -7949671734961159717
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_69: 4496708995564006054
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_7: 7494348096012417710
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_70: -2722247575521820800
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_71: 2332624594600724380
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_72: 8330164383834404414
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_73: -3106935247239188320
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_74: 7414663721944411810
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_75: 3192978364230189632
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_76: -4606105914868910542
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_77: 5315581492666163946
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_78: 7449091130959968401
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_79: 8603312702590530044
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_8: -9173485828178874863
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_80: -6607239371931033648
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_81: -3684172738038169432
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_82: -421016439265407452
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_83: -4652142185146302526
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_84: -4088581422080627106
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_85: -5574105884480676714
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_86: 5520370537286624112
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_87: -3540646734629224455
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_88: 6064598962059123901
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_89: -5824884459462297580
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_9: -579373909291548038
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_90: -4825834476209892703
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_91: -8220162617787670162
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_92: -5281328513396189964
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_93: 7582544275530727435
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_94: -8496879578112068748
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_95: -7950663499829828263
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_96: -2957542700238789959
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_97: -4506370725721160659
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_98: 7127368641171629812
+      Yurei_Animacao_Ataque-Idle-morte-surgimento-idle antes do surgimento-Sheet_99: 2934479491525492805
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
